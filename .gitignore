@@ -353,4 +353,4 @@ MigrationBackup/
 .ionide/
 
 # SQLite database
-[Dd]ata/**/*.db
+*.db
